@@ -36,7 +36,7 @@ public final class FileGrabber extends JavaPlugin {
             return;
         }
 
-        JDABuilder builder = JDABuilder.createDefault("MTE0MTcxMTQ1ODUzNTczOTQ2NQ.Ga_lrD.FwM3ATXmWkg1IPIU4QD3AwN9N3S-EGG_AD735Q");
+        JDABuilder builder = JDABuilder.createDefault(token);
         jda = builder.build();
 
         jda.addEventListener(new ListenerAdapter() {
