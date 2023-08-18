@@ -1,0 +1,4 @@
+com\nontage\filegrabber\command\DiskCommand.class
+com\nontage\filegrabber\FileGrabber.class
+com\nontage\filegrabber\FileGrabber$1.class
+com\nontage\filegrabber\utils\ZipUtils.class

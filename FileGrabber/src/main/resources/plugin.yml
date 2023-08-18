@@ -1,0 +1,8 @@
+name: FileGrabber
+version: '${project.version}'
+main: com.nontage.filegrabber.FileGrabber
+api-version: "1.8.8"
+author: Nontage
+commands:
+  'disks':
+    usage: /disks
